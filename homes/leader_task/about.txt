@@ -1,0 +1,16 @@
+forbes_syscom@hrd.com
+
+Leader_Task_Manager
+v 1.0.0
+Released:
+2017-09-02
+
+Update:
+	Print Function
+	Previous Data Editable
+	Syscom Developer Data Hidden
+	About Link
+2017-09-08
+Update:
+	SH can access task viewer
+	Previous Data (Time in, Log In) editable
